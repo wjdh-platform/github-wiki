@@ -4,7 +4,7 @@
 
 > 整理时间：2020年12月25日07:23:47最新整理
 
-> 解决问题：无法查看github上面的图片和视频
+> 解决问题：无法查看github上面的图片和视频、github访问速度太慢
 
 > 解决方案：使用管理员身份编辑hosts文件（文件位置C:\Windows\System32\drivers\etc\hosts）在host文件中末尾粘贴下列ip-网址映射
 
