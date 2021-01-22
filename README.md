@@ -9,34 +9,48 @@
 > 解决方案：使用管理员身份编辑hosts文件（文件位置C:\Windows\System32\drivers\etc\hosts）在host文件中末尾粘贴下列ip-网址映射
 
 ```
-# GitHub Start 
-140.82.113.3      github.com
-140.82.114.20     gist.github.com
+# GitHub Start
+#2021年1月22日21:50:57 
+140.82.114.3      github.com
+140.82.114.3      gist.github.com
 
-151.101.184.133    assets-cdn.github.com
-151.101.184.133    raw.githubusercontent.com
-151.101.184.133    gist.githubusercontent.com
-151.101.184.133    cloud.githubusercontent.com
-151.101.184.133    camo.githubusercontent.com
-151.101.184.133    avatars0.githubusercontent.com
-199.232.68.133     avatars0.githubusercontent.com
-199.232.28.133     avatars1.githubusercontent.com
-151.101.184.133    avatars1.githubusercontent.com
-151.101.184.133    avatars2.githubusercontent.com
-199.232.28.133     avatars2.githubusercontent.com
-151.101.184.133    avatars3.githubusercontent.com
-199.232.68.133     avatars3.githubusercontent.com
-151.101.184.133    avatars4.githubusercontent.com
-199.232.68.133     avatars4.githubusercontent.com
-151.101.184.133    avatars5.githubusercontent.com
-199.232.68.133     avatars5.githubusercontent.com
-151.101.184.133    avatars6.githubusercontent.com
-199.232.68.133     avatars6.githubusercontent.com
-151.101.184.133    avatars7.githubusercontent.com
-199.232.68.133     avatars7.githubusercontent.com
-151.101.184.133    avatars8.githubusercontent.com
-199.232.68.133     avatars8.githubusercontent.com
-199.232.96.133     githubusercontent.com user-images.githubusercontent.com
+#2021年1月22日21:51:06
+185.199.108.153    assets-cdn.github.com
+185.199.109.153    assets-cdn.github.com
+185.199.110.153    assets-cdn.github.com
+185.199.111.153    assets-cdn.github.com
+
+#2021年1月22日21:51:13
+199.232.96.133    raw.githubusercontent.com
+199.232.96.133    gist.githubusercontent.com
+199.232.96.133    cloud.githubusercontent.com
+199.232.96.133    camo.githubusercontent.com
+
+#2021年1月22日21:50:48
+185.199.108.154   github.githubassets.com
+185.199.109.154		github.githubassets.com
+185.199.110.154		github.githubassets.com
+185.199.111.154		github.githubassets.com
+
+#2021年1月22日21:51:26
+199.232.96.133    avatars0.githubusercontent.com
+199.232.28.133    avatars1.githubusercontent.com
+199.232.96.133    avatars2.githubusercontent.com
+199.232.96.133    avatars3.githubusercontent.com
+199.232.96.133    avatars4.githubusercontent.com
+199.232.96.133    avatars5.githubusercontent.com
+199.232.96.133    avatars6.githubusercontent.com
+199.232.96.133    avatars7.githubusercontent.com
+199.232.96.133    avatars8.githubusercontent.com
+199.232.96.133 	  avatars.githubusercontent.com
+
+#2021年1月22日21:51:40
+199.232.96.133    githubusercontent.com user-images.githubusercontent.com
+140.82.112.5	 	  api.github.com
+3.218.144.29  		collector.githubapp.com
+3.224.212.168 		collector.githubapp.com
+54.146.190.157		collector.githubapp.com
+199.232.69.194		github.global.ssl.fastly.net
 # GitHub End
 ```
 
