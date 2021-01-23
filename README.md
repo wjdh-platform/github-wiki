@@ -6,13 +6,28 @@
 
 > 解决问题：无法查看github上面的图片和视频、github访问速度太慢
 
-> 解决方案：使用管理员身份编辑hosts文件（文件位置C:\Windows\System32\drivers\etc\hosts）在host文件中末尾粘贴下列ip-网址映射
+- 解决方案1：使用管理员身份编辑hosts文件（文件位置C:\Windows\System32\drivers\etc\hosts）在host文件中末尾粘贴下列ip-网址映射
+
+- 解决方案2：由于github的ip会出现变动，所以授人以鱼不如授人以渔，下面教大家如何更新github的ip映射
+
+1.访问<https://www.ipaddress.com>
+
+![ip主页](/enter-ipaddress.png)
+
+2.查询ip,比如输入github.com，点击搜索（放大镜）
+
+![页面](/get-ipi.png)
+
+3.使用管理员身份编辑hosts文件（文件位置C:\Windows\System32\drivers\etc\hosts）
+
+4.修改相应url的ip地址
 
 ```
+
 # GitHub Start
 #2021年1月22日21:50:57 
-140.82.114.3      github.com
-140.82.114.3      gist.github.com
+140.82.112.3      github.com
+140.82.112.3      gist.github.com
 
 #2021年1月22日21:51:06
 185.199.108.153    assets-cdn.github.com
