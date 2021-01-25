@@ -77,4 +77,4 @@
 
 Octotree是一个 Chrome插件，用来显示 Github 项目的目录结构。主要针对于广大的程序猿童鞋们，Github上面成千上万的开源项目给程序猿带来很多帮助，还可以学习大神们的思想，向大神看齐。不过，在Github上查看源代码的体验十分糟糕，尤其是从一个目录跳转到另一个目录的时候，非常麻烦。octotree插件就能很好地解决了上述问题。安装之后，浏览托管在Github上的项目，可看到左侧的树形结构，更方便查看代码，给你一种LDE般的体验感。
 
-## 解析ip地址使用https://www.ipaddress.com/
+## 解析ip地址使用https://www.ipaddress.com/ 或者 http://tool.chinaz.com/dns
