@@ -26,8 +26,8 @@
 
 # GitHub Start
 #2021年1月22日21:50:57 
-140.82.112.3      github.com
-140.82.112.3      gist.github.com
+140.82.112.3       github.com
+140.82.112.3       gist.github.com
 
 #2021年1月22日21:51:06
 185.199.108.153    assets-cdn.github.com
@@ -43,9 +43,9 @@
 
 #2021年1月22日21:50:48
 185.199.108.154   github.githubassets.com
-185.199.109.154		github.githubassets.com
-185.199.110.154		github.githubassets.com
-185.199.111.154		github.githubassets.com
+185.199.109.154	  github.githubassets.com
+185.199.110.154	  github.githubassets.com
+185.199.111.154	  github.githubassets.com
 
 #2021年1月22日21:51:26
 199.232.96.133    avatars0.githubusercontent.com
@@ -61,11 +61,11 @@
 
 #2021年1月22日21:51:40
 199.232.96.133    githubusercontent.com user-images.githubusercontent.com
-140.82.112.5	 	  api.github.com
-3.218.144.29  		collector.githubapp.com
-3.224.212.168 		collector.githubapp.com
-54.146.190.157		collector.githubapp.com
-199.232.69.194		github.global.ssl.fastly.net
+140.82.112.5	  api.github.com
+3.218.144.29  	  collector.githubapp.com
+3.224.212.168 	  collector.githubapp.com
+54.146.190.157	  collector.githubapp.com
+199.232.69.194	  github.global.ssl.fastly.net
 # GitHub End
 ```
 
